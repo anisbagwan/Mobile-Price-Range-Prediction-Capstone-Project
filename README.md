@@ -1,4 +1,7 @@
 # Mobile-Price-Range-Prediction-Capstone-Project
+
+![real-mobile-2x](https://user-images.githubusercontent.com/84036652/176117318-69bd78a0-d8e5-4309-8a78-f6a83748dc70.png)
+
 In this era of technology there are various electronic gadgets that are created or invented by humans.
 About two decades ago the craze of technology was not that much but from last few years this craze
 is at its peak. Now a days people are mad about mobile phones and other gadgets. Mobiles are now
